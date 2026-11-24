@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Vídeos e resultados pesados gerados
+videos/
+results/
+*.mp4
+*.avi
+*.mov
+
+# Repositório auxiliar de terceiros
+SynthSite/
